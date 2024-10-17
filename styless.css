@@ -1,0 +1,255 @@
+*{
+    font-family: "Poppins",sans-serif;
+    margin:0;
+    box-sizing: border-box;
+}
+.left {
+    width:25%;
+}
+.heading {
+    font-size: 28px;
+    margin-top: 15px;
+    margin-left: 58px;
+    cursor:pointer;
+}
+.horizon {
+    font-weight: 700;
+    margin-bottom: 28px;
+}
+ul{
+    margin-top: 50px;
+}
+.koi li{
+    list-style-type: none;
+    font-size: larger;
+    font-weight: 700;
+    padding: 20px;
+    color:gray;
+    margin:0;
+}
+li:hover{
+    color: purple;
+    cursor: pointer;
+}
+.center {
+    width:55%;
+}
+.total {
+    display: flex;
+}
+.upperval {
+    margin-top:13px;
+    color:gray;
+    font-size: 15px;
+}
+.headcent {
+    font-size:40px;
+    font-weight:600;
+}
+.box {
+    background-color: rgb(49, 18, 186);
+    color:white;
+    padding:39px;
+    height:290px;
+    border-radius: 20px;
+    margin-bottom:30px;
+}
+.boxhead {
+    
+    font-size: 30px;
+    font-weight: 500;
+}
+.minipara{
+    word-spacing:3px;
+    letter-spacing: .5px;
+    margin-bottom:20px;
+}
+.discovernow {
+    color:white;
+    padding:12px;
+    background-color: rgb(49, 18, 186);
+    border:none;
+    margin-right:22px;
+    font-weight: 500;
+}
+.discovernow:hover{
+    background-color: white;
+    color: rgb(49, 18, 186);
+    border-radius: 15px;
+    padding:15px;
+}
+.Watchvideos {
+    color:white;
+    padding:12px;
+    background-color: rgb(49, 18, 186);
+    border:none;
+    margin-right:22px;
+    font-weight: 500;
+}
+
+.Watchvideos:hover{
+    background-color: white;
+    color: rgb(49, 18, 186);
+    border-radius: 15px;
+    padding:15px;
+}
+.trendNFTs {
+    font-size:20px;
+    font-weight: 700;
+    display:inline;
+}
+.trendNFTs .trend {
+    list-style-type: none;
+    display:flex;
+    position:absolute;
+    top:370px;
+    right:280px;
+}
+.new {
+    font-size: medium;
+    margin-right: 45px;
+}
+.new:hover {
+    background-color:whitesmoke;
+    color:purple;
+    padding:5px;
+    border-radius: 20px;
+    border:white none 1px;
+}
+.img-1 {
+    background-color: rgb(20, 247, 88);
+    height: 170px;
+    width:260px;
+    margin-bottom: 15px;
+}
+
+.img-2 {
+    background-color: rgb(9, 74, 255);
+    height: 170px;
+    width:260px;
+    margin-bottom: 15px;
+}
+
+.img-3 {
+    background-color: rgb(96, 0, 186);
+    height: 170px;
+    width:260px;
+    margin-bottom: 15px;
+}
+.titlebox {
+    font-size: 20px;
+    font-weight: 600;
+}
+.subtitle {
+    font-size: small;
+    color:#887373;
+    margin-bottom: 13px;
+}
+.currsubtitle {
+    color:purple;
+    font-weight: 600;
+
+}
+.placebid {
+    background-color: purple;
+    color:white;
+    padding:12px;
+    width:100px;
+    position:relative;
+    bottom:90px;
+    left:159px; 
+    cursor:pointer; 
+    border-radius: 4px;;
+}
+.newboxs-1 {
+    border:black 2px solid;
+    width:270px;
+    padding:3px;
+    height:300px;
+    margin-bottom:20px;
+}
+.newboxs-2{
+    border:black 2px solid;
+    width:270px;
+    padding:3px;
+    height:300px;
+    margin-bottom:20px;
+}
+.newboxs-3 {
+        border:black 2px solid;
+        width:270px;
+        padding:3px;
+        height:300px;
+        margin-bottom:20px;
+    }
+    .albox{
+        display:flex;
+        justify-content: space-around;
+    }
+    .right{
+        width:20%;
+        margin-top:15px;
+    }
+    .search {
+        background-color: linen;
+    }
+    .searchbar {
+        border: none;
+        border-radius: 30px;
+        margin-left: 12px;
+        margin-top:12px;
+    }
+    .aa {
+        background:white;
+        width:20px;
+        text-align: center;
+        height:20px;
+        border-radius: 50%;
+        cursor: pointer;
+    }
+    .eth {
+        display: inline-block;
+        font-weight: 700;
+    }
+    .prof {
+        text-align: center;
+        margin-right:23px;
+        font-weight: 700;
+    }
+    .TopCreators {
+        font-size: larger;
+        font-weight: 600;
+        padding:15px;
+    }
+    .seeall {
+        margin-top: 3px;
+        float: right;
+        color:purple;
+        font-weight: 700;
+        background-color: #d1cdcd;
+        border:none;
+        padding:6px;
+        border-radius: 15px;
+
+    }
+    .table-1 {
+        margin-top:10px;
+       }
+ td {
+    text-align: center;
+    padding:15px;
+ }
+ tr {
+    font-size: 13px;
+ }
+ .bold {
+    font-weight: 650;
+    text-align: left;
+ }
+ .data {
+    color:#887373;
+ }
+ .prpl {
+    color:purple;
+    font-weight: 650;
+ }
